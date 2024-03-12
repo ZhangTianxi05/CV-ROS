@@ -1,7 +1,7 @@
 # CV-ROS
 ## A cv program based on ROS
 * language:cpp
-* library:opencv
+* library:opencv,ROS
 * function:detect the object on the ground and return the location and angle of the object to the moving part of our drone.
 * cpp source code are in the src branch
 ## algorithm:
